@@ -27,7 +27,9 @@ public class Categorias {
         this.listaProductos = listaProductos;
     }
 
-    
+    public void agregarProductos(Productos producto){
+        listaProductos.add(producto);
+    }
 
     
 
