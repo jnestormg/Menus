@@ -12,9 +12,6 @@ public class Principal {
 
     private static Productos producto;
 
-    private static List<Catalogos> catalogos;
-
-    private static Catalogos catalogo;
 
     private static List<Menus> menus;
 
